@@ -1,0 +1,72 @@
+/* global
+--------------------*/
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+
+}
+h1,h2{
+  font-family: 'Caveat', cursive;
+}
+h1{
+  font-size: 80px;
+}
+h2{
+  font-size: 80px;
+}
+.content-wrap ,p{
+  color:white;
+}
+/* links
+----------------------------*/
+
+a{
+  color: #EF233C;
+}
+a:hover{
+  text-decoration:none;
+}
+.content-wrap{
+      max-width:950px;
+      margin: 0 auto;
+      padding: 50px;
+}
+
+/* header and Footer
+--------------------------*/
+
+header, footer{
+  background: #2B2D42;
+
+}
+header h1, header h2{
+  color: #EDF2F4;
+}
+
+.contact-info a{
+  background-color: white;
+  padding: : 10px;
+  display: inline-block;
+}
+
+
+
+footer{
+  text-align: center;
+}
+
+.work{
+  background: #3DF2F0;
+}
+.education{
+  background: #2D99AE;
+}
+.profile-img{
+  width: 300px;
+  height: 300px;
+  border-radius:50%;
+  float:left;
+  margin-right:30px;
+
+}
