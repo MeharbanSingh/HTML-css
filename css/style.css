@@ -26,6 +26,7 @@ a{
 }
 a:hover{
   text-decoration:none;
+  text-transform:uppercase;  
 }
 .content-wrap{
       max-width:950px;
